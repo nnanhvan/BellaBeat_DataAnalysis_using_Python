@@ -11,3 +11,5 @@ Analyze FitBit Fitness Tracker Data to gain insights into how consumers are usin
 + A summary of analysis
 + Supporting visualizations and key findings
 + High-level content recommendations based on the analysis
+
+Click the file 'BellaBeat Analysis with Python.ipynb' to open the project result.
